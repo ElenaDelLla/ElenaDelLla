@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://github.githubassets.com/images/mona-whisper.gif">
+</p>
+
 <!--
 **ElenaDelLla/ElenaDelLla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
